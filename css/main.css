@@ -1,0 +1,22 @@
+body {
+  background-color: #ccc;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  width: 100%;
+}
+
+li {
+  display: inline-block;
+  width: 200px;
+
+}
+
+img {
+  border-radius: 100px;
+}
